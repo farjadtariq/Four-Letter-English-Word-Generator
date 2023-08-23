@@ -8,7 +8,7 @@ The Four-Letter English Word Generator is a Python program that generates all po
 
 ## How to Run
 1. Clone this repository.
-2. Make sure that the text file "wordlist.txt" containing English words is in the project directory.
+2. Make sure that the text file `wordlist.txt` containing English words is in the project directory.
 3. Run the `main.py` script, and when prompted, enter the name of the text file.
 
 ## Features
