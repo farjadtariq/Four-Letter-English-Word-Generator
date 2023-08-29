@@ -27,6 +27,6 @@ The Four-Letter English Word Generator is a Python program that generates all po
 Farjad Tariq
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 
